@@ -1,0 +1,7 @@
+D:\SimplilearnAssignment4\TeachersSortAndUpdate\TeachersSortAndUpdate\bin\Debug\TeachersSortAndUpdate.exe.config
+D:\SimplilearnAssignment4\TeachersSortAndUpdate\TeachersSortAndUpdate\bin\Debug\TeachersSortAndUpdate.exe
+D:\SimplilearnAssignment4\TeachersSortAndUpdate\TeachersSortAndUpdate\bin\Debug\TeachersSortAndUpdate.pdb
+D:\SimplilearnAssignment4\TeachersSortAndUpdate\TeachersSortAndUpdate\obj\Debug\TeachersSortAndUpdate.csproj.AssemblyReference.cache
+D:\SimplilearnAssignment4\TeachersSortAndUpdate\TeachersSortAndUpdate\obj\Debug\TeachersSortAndUpdate.csproj.CoreCompileInputs.cache
+D:\SimplilearnAssignment4\TeachersSortAndUpdate\TeachersSortAndUpdate\obj\Debug\TeachersSortAndUpdate.exe
+D:\SimplilearnAssignment4\TeachersSortAndUpdate\TeachersSortAndUpdate\obj\Debug\TeachersSortAndUpdate.pdb
